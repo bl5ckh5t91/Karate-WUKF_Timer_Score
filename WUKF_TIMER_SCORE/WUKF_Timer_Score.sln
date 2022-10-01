@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WUKF_Timer_Score", "WUKF_Timer_Score.vbproj", "{BFFD294C-C11F-4A68-B965-B308C08032CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFFD294C-C11F-4A68-B965-B308C08032CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFD294C-C11F-4A68-B965-B308C08032CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFD294C-C11F-4A68-B965-B308C08032CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFD294C-C11F-4A68-B965-B308C08032CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

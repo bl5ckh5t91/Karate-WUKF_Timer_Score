@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\wkf\WindowsApplication4\bin\Debug\WUKFwatch.exe.config
+C:\Users\user\Desktop\wkf\WindowsApplication4\obj\Debug\WUKFwatch.exe
+C:\Users\user\Desktop\wkf\WindowsApplication4\obj\Debug\WUKFwatch.xml
+C:\Users\user\Desktop\wkf\WindowsApplication4\obj\Debug\WUKFwatch.pdb
+C:\Users\user\Desktop\wkf\WUKF_TIMER_SCORE\bin\Debug\WUKFwatch.exe.config
+C:\Users\user\Desktop\wkf\WUKF_TIMER_SCORE\obj\Debug\WUKFwatch.exe
+C:\Users\user\Desktop\wkf\WUKF_TIMER_SCORE\obj\Debug\WUKFwatch.xml
+C:\Users\user\Desktop\wkf\WUKF_TIMER_SCORE\obj\Debug\WUKFwatch.pdb

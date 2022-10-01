@@ -1,0 +1,32 @@
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\bin\Debug\wkfwatch.exe.config
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\bin\Debug\wkfwatch.exe
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\bin\Debug\wkfwatch.pdb
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\bin\Debug\wkfwatch.xml
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\obj\Debug\WindowsApplication4.Form2.resources
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\obj\Debug\WindowsApplication4.Form3.resources
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\obj\Debug\WindowsApplication4.Form4.resources
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\obj\Debug\WKF_WATCH.vbproj.GenerateResource.Cache
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\obj\Debug\wkfwatch.exe
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\obj\Debug\wkfwatch.xml
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\obj\Debug\wkfwatch.pdb
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\bin\Debug\wkfwatch.exe.manifest
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\bin\Debug\wkfwatch.application
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\obj\Debug\wkfwatch.exe.manifest
+C:\Users\PC WORLD\Desktop\wkf\WindowsApplication4\obj\Debug\wkfwatch.application
+C:\Users\user\Desktop\wkf\WindowsApplication4\obj\Debug\WKF_WATCH.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\wkf\WindowsApplication4\bin\Debug\WUKFwatch.exe.config
+C:\Users\user\Desktop\wkf\WindowsApplication4\bin\Debug\WUKFwatch.exe.manifest
+C:\Users\user\Desktop\wkf\WindowsApplication4\bin\Debug\WUKFwatch.application
+C:\Users\user\Desktop\wkf\WindowsApplication4\bin\Debug\WUKFwatch.exe
+C:\Users\user\Desktop\wkf\WindowsApplication4\bin\Debug\WUKFwatch.pdb
+C:\Users\user\Desktop\wkf\WindowsApplication4\bin\Debug\WUKFwatch.xml
+C:\Users\user\Desktop\wkf\WindowsApplication4\obj\Debug\WUKFwatch.Form1.resources
+C:\Users\user\Desktop\wkf\WindowsApplication4\obj\Debug\WUKFwatch.Form2.resources
+C:\Users\user\Desktop\wkf\WindowsApplication4\obj\Debug\WUKFwatch.Resources.resources
+C:\Users\user\Desktop\wkf\WindowsApplication4\obj\Debug\WUKFwatch.exe.manifest
+C:\Users\user\Desktop\wkf\WindowsApplication4\obj\Debug\WUKFwatch.application
+C:\Users\user\Desktop\wkf\WindowsApplication4\obj\Debug\WUKFwatch.exe
+C:\Users\user\Desktop\wkf\WindowsApplication4\obj\Debug\WUKFwatch.xml
+C:\Users\user\Desktop\wkf\WindowsApplication4\obj\Debug\WUKFwatch.pdb
